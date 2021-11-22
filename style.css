@@ -85,7 +85,7 @@ align-items: center;
 }
 
 .background{
-    background: rgba(0, 0, 0, 0.7); 
+    background-color: rgba(0, 0, 0, 0.7); 
     background-image: url('img.jpg');   
     background-size: cover;
     background-blend-mode: darken;
