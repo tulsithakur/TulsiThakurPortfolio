@@ -257,8 +257,9 @@ font-size: 19px;
     justify-content: center;
     align-items: center;
     /*color: rgb(189, 184, 184);*/
+    background-color:black;
     color:white;
-    background-color: black;
+   
 }
 
 .burger{
